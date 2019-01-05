@@ -1,0 +1,2 @@
+# TAMAGO2019
+GMS2 Game project TAMAGO2019
